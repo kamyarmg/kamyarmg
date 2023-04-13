@@ -1,8 +1,6 @@
-# Hi there 👋
+# Hi there 🍻🍻🍻
 
 My name is Kamyar MirzaGhanbarpour, I am a result-oriented Software Developer with 6+ years of experience in web development, DevOps, and working in various environments. Among all programming languages, I love Python, and I enjoy working with Linux.
-
-#### 🍻🍻🍻 Programming is fun, BUT life is much more fun. 🍻🍻🍻
 
 My Favorites:
 
