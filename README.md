@@ -1,16 +1,14 @@
-### Hi there 👋
+## Kamyar M.G.
 
-<!--
-**kamyarmg/kamyarmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kamayar MirzagGhanbarpour(M.G.).I am a result-oriented Software Developer with 6+ years of experience in web development, DevOps, and working in various environments. Among all programming languages, I love ### Python, and I enjoy working with Linux.
 
-Here are some ideas to get you started:
+### Programming is very beautiful, but life is much more beautiful
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I love myself
+- I love life
+- I love people
+- I love animals
+- I love nature
+- I love laughing
+- I love everyone
+
